@@ -1,0 +1,55 @@
+#style {
+     font-size:200%;
+     color:#787878;
+     font-family:"Monospace" Cursive;
+    border-radius:2%;
+    -moz-border-radius:2%;
+    -webkit-border-radius:2%;
+    background:linear-gradient(270deg, #202020, #202020);
+    border:none;
+ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.20);
+    padding: 15px;
+}
+
+#style:hover {
+ background: #282828;
+}
+
+#knopka:hover {
+background: #282828;
+}
+
+#style:focus {
+    outline: none;
+}
+
+#color {
+background:linear-gradient(270deg, #202020, #181818);
+}
+
+#knopka {
+color:#787878;
+ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+background:linear-gradient(270deg, #202020, #202020);
+  border-radius:12%;
+-moz-border-radius:12%;
+-webkit-border-radius:12%;
+
+   font-family:Monospace;
+ border:none;
+height:60px;
+    width:140px;
+}
+
+
+
+
+
+#knopka:focus {
+    outline: none;
+}
+
+#versia {
+text-align:right
+font-color:#787878;
+}
